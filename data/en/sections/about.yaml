@@ -10,15 +10,18 @@ section:
 # your designation
 designation: Azure Cloud Engineer
 # your company information
-company:
-  name: Korthoff-IT B.V.
-  url: "https://www.korthoff-it.nl"
+# company:
+#   name: Korthoff-IT B.V.
+#   url: "https://www.korthoff-it.nl"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I'm an Azure Cloud and DevOps engineer with a strong focus on automation, infrastructure-as-code, and scalable cloud architecture—primarily within the Microsoft ecosystem. I specialize in technologies like Azure, Intune, Entra ID, Bicep, and Azure Virtual Desktop, and have led complex projects such as enterprise-scale cloud migration and large-scale AVD deployments using CI/CD and BICEP.
+
+
+I take pride in combining sharp analytical thinking with a high sense of ownership. I'm direct, practical, and value clear communication. I'm also deeply self-aware—adapting my workflows to fit how I think and work best. For me, structure, clarity, and meaningful challenge are non-negotiables, whether I'm building systems or collaborating with teams."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -42,31 +45,46 @@ badges:
 - type: certification
   name: MS Certified Azure Virtual Desktop Specialty
   url: "https://learn.microsoft.com/api/credentials/share/en-us/MennoKorthoff-8425/8F6BEF5D6027C4EA?sharingId=FC00C7A22DE2C780"
-  badge: images/badges/avd.png
+  badge: https://raw.githubusercontent.com/MystacX/menno.cloud/refs/heads/main/static/images/badges/avd.webp
 
 - type: certification
   name: MS Certified Azure Administrator Associate
   url: "https://learn.microsoft.com/api/credentials/share/en-us/MennoKorthoff-8425/31FB4365D1985241?sharingId=FC00C7A22DE2C780"
-  badge: images/badges/azureAdmin.png
+  badge: https://raw.githubusercontent.com/MystacX/menno.cloud/refs/heads/main/static/images/badges/azureAdmin.png
 
 - type: certification
   name: MS Certified DevOps Engineer Expert
   url: "https://learn.microsoft.com/api/credentials/share/en-us/MennoKorthoff-8425/33FE7FDECEA70CEE?sharingId=FC00C7A22DE2C780"
-  badge: images/badges/microsoft-certified-associate-badge.svg
+  badge: https://raw.githubusercontent.com/MystacX/menno.cloud/refs/heads/main/static/images/badges/badge-ms-devops-expert.webp
+
+- type: certification
+  name: MS 365 Certified Endpoint Administrator Associate
+  url: "https://learn.microsoft.com/api/credentials/share/en-us/MennoKorthoff-8425/B57562768435C812?sharingId=FC00C7A22DE2C780"
+  badge: https://raw.githubusercontent.com/MystacX/menno.cloud/refs/heads/main/static/images/badges/intune.png
+
+- type: certification
+  name: MS 365 Certified Administrator Expert
+  url: "https://learn.microsoft.com/api/credentials/share/en-us/MennoKorthoff-8425/DC017DC1FEFED1B5?sharingId=FC00C7A22DE2C780"
+  badge: https://raw.githubusercontent.com/MystacX/menno.cloud/refs/heads/main/static/images/badges/m365adminExpert.png
+
+- type: certification
+  name: SCRUM Certified Product Owner II
+  url: "https://www.credly.com/badges/517493e2-9b1c-4eb0-8b48-1805ea787bfb/public_url"
+  badge: https://images.credly.com/size/340x340/images/0a8590ce-08e2-493f-b45a-e2c9ee8c848c/image.png
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Analytical Thinking & Problem Solving
   percentage: 95
   color: orange
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Accountability & Ownership
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Problem solving
-  percentage: 95
+  name: Self-Awareness & Adaptability
+  percentage: 85
   color: green
 
 # you can also provide color code instead of the color name
