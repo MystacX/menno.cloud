@@ -1,4 +1,4 @@
-module mysite.local
+module github.com/MystacX/menno.cloud
 
 go 1.24.4
 
