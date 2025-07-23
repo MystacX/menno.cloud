@@ -1,73 +1,172 @@
-# section information
 section:
   name: Experiences
   id: experiences
   enable: true
   weight: 3
   showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true 
-
-# Your experiences
+  # hideTitle: true
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - company:
+      name: Korthoff-IT B.V.
+      url: "https://www.korthoff-it.nl"
+      location: Lelystad
+      # logo: /images/experiences/korthoffit.png
+      # darkLogo: /images/experiences/korthoffit-dark.png
+      overview: Korthoff-IT B.V. delivers consulting and MSP services for enterprise and SME customers.
+    positions:
+      - designation: Freelance Azure Cloud Engineer
+        start: Jan 2020
+        responsibilities:
+          - Design and implement Azure Virtual Desktop environments
+          - Support application teams with integrating their solutions into the AVD platform
+          - Utilize infrastructure-as-code principles for the technical deployment of the environments
+      - designation: Managing Director
+        start: Jan 2020
+        responsibilities:
+          - Responsible for acquisition of new customers
+          - Engaged and maintain relations of customers and partners
+          - Act as de-facto head of the company
+  - company:
+      name: Nederlandse Spoorwegen (NS)
+      url: "https://www.ns.nl"
+      location: Utrecht
+      # logo: /images/experiences/ns.png
+      # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: Senior Azure Virtual Desktop Engineer
+        start: Apr 2025
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Design and implement Azure Virtual Desktop environments
+          - Support application teams with integrating their solutions into the AVD platform
+          - Utilize infrastructure-as-code principles for the technical deployment of the environments
+  - company:
+      name: Federatie Nederlandse Vakbeweging (FNV)
+      url: "https://www.fnv.nl"
+      location: Utrecht
+      # logo: /images/experiences/fnv.png
+      # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: Technical Project Lead
+        start: Nov 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Apr 2025
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Guide and lead technical teams and external partners through the migration, improvement and optimization of the Azure landing zone
+          - Lead the decomission effort of lgeacy systems and guide the migration into modern cloud infrastructures
+          - Act as link between IT management, third-party technical partners, adn internal teams and align strategic goals.
+  - company:
+      name: "'s Heeren Loo Zorggroep (SHL)"
+      url: "https://www.sheerenloo.nl"
+      location: Amersfoort
+      # logo: /images/experiences/shl.png
+      # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: Modern Workplace Engineer
+        start: Jan 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Aug 2024
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Manage transfer of Azure Virtual Desktop to BAU-teams.
+          - Act as subject matter expert for BAU concerning Azure Virtual Desktop.
+          - Implement SSO, configure compliance and configuration policies, improve Conditional Access policies, build PowerShell reports.
+      - designation: Trainer
+        start: Dec 2023
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Aug 2024
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Accelerate the adoption of Azure DevOps and Infrastructure-as-Code.
+          - Hold knowledge sessions about the use of Azure DevOps, code repositories, and CI/CD pipelines.
+          - Coach colleagues in the use of PowerShell, GIT, and coding best practices.
+          - Implement and manage an internal scripting guild, responsible for code and script practices and procedures within the company.
+      - designation: Senior Azure Engineer
+        start: Jan 2023
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Jan 2024
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Responsible for the design and implementation of Azure Virtual Desktop environments.
+          - Require all designs and implementations to follow automation-first and infrastructure-as-code principles.
+          - Migrate 1600+ users from the old virtual environment (Citrix) to the new Azure Virtual Desktop.
+          - Migrate on-premise workloads to the Azure public cloud, using technical designs and scalable secure practices.
+      - designation: Senior Citrix Engineer
+        start: Jun 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Dec 2022
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Restore downed Citrix production environment to a working state.
+          - Improve Citrix images and host performance to allow end users to complete critical work.
+          - Manage Citrix Netscaler, focusing on loadbalancing, content switching, SSL VPN's and firmware upgrades.
+          - Prepare the eventual migration into the new Azure Virtual Desktop.
+          - Decomission the full Citrix-stack, including hardware components and virtual infrastructure.
+  - company:
+      name: LeasePlan N.V.
+      url: "https://www.leaseplan.nl"
+      location: Dublin (remote)
+      # logo: /images/experiences/leaseplan.png
+      # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: System / Security Engineer
+        start: Aug 2021
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: May 2022
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Remediate a large number of vulnerabilities detected in 2500+ servers, using Qualys and HCL BigFix.
+          - Expand the use of BigFix and optimize the BigFix infrastructure.
+          - Migrate workloads from on-premise to AWS EC2.
+          - Assist in migrating project workloads to cross-discipline BAU teams.
+          - Patch management of 2500+ infrastructure servers.
+  - company:
+      name: CloudPhase
+      url: "https://www.cloudphase.nl"
+      location: Utrecht
+      # logo: /images/experiences/cloudphase.png
+      # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: Interim Project Engineer
+        start: Jan 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        #end: May 2022
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Perform a mail migration of 200+ standard mailboxes to Exchange Online
+          - Provide PowerShell scripting-expertise for user migrations, mail migrationns, imagebuilders and reporting.
+  - company:
+      name: Ministry of Economic Affairs (DICTU, Gov.)
+      url: "https://www.dictu.nl"
+      location: The Hague
+      # logo: /images/experiences/dictu.png
+      # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: Senior Citrix Specialist
+        start: Mar 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Aug 2021
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Third-line support of the 14k users on the Citrix Environment
+          - Troubleshoot extreme and long-running issues that were preventing optimal performance.
+          - Full image management, including 3 shared desktop images and 3 personal images.
+          - Full lifecycle management of the entire Citrix-stack.
+          - Act as lead engineer during critical incidents, managing stakeholders and external vendors/partners.
+          - Provide PowerShell-expertise in all required areas.
+          - Take part in all required SCRUM-events, including refinement, planning and retrospectives.

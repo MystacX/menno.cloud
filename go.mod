@@ -1,9 +1,5 @@
-module github.com/MystacX/menno.cloud
+module mysite.local
 
-go 1.21
+go 1.24.4
 
-require github.com/hugo-toha/toha/v4 v4.8.1-0.20250414164834-722336146405 // indirect
-
-// replace(
-//     github.com/hugo-toha/toha/v4 => ../toha
-// )
+require github.com/hugo-toha/toha/v4 v4.9.0 // indirect

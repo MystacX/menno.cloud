@@ -1,4 +1,17 @@
 {
-  "name": "hugo-toha.github.io",
-  "version": "0.1.0"
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "bootstrap": "^5.3.6",
+    "feather-icons": "^4.29.2",
+    "filterizr": "^2.2.4",
+    "fuse.js": "^7.1.0",
+    "highlight.js": "^11.11.1",
+    "imagesloaded": "^5.0.0",
+    "include-media": "^2.0.0",
+    "ityped": "^1.0.3",
+    "katex": "^0.16.22",
+    "mark.js": "^8.11.1",
+    "mermaid": "^11.6.0",
+    "plyr": "^3.7.8"
+  }
 }
