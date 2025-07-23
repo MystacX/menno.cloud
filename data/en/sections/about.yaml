@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Lead Engineer / Director
+designation: Azure Cloud Engineer
 # your company information
 company:
   name: Korthoff-IT B.V.

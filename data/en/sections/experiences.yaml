@@ -33,7 +33,7 @@ experiences:
       # logo: /images/experiences/ns.png
       # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: Nederlandse Spoorwegen (NS) is the principal passenger railway operator in the Netherlands, managing the majority of train services on the national rail network. The company plays a key role in Dutch mobility and continuously invests in sustainable and efficient transportation solutions.
     positions:
       - designation: Senior Azure Virtual Desktop Engineer
         start: Apr 2025
@@ -51,7 +51,7 @@ experiences:
       # logo: /images/experiences/fnv.png
       # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: The FNV (Federation of Dutch Trade Unions) is the largest trade union federation in the Netherlands, representing workers across multiple sectors. It advocates for fair labor conditions, social security, and workers' rights through collective bargaining and political influence.
     positions:
       - designation: Technical Project Lead
         start: Nov 2024
@@ -69,7 +69,7 @@ experiences:
       # logo: /images/experiences/shl.png
       # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: \'s Heeren Loo is the leading Dutch care organization supporting people with intellectual and other disabilities, offering both light and intensive care across nearly 300 municipalities in the Netherlands.
     positions:
       - designation: Modern Workplace Engineer
         start: Jan 2024
@@ -118,7 +118,7 @@ experiences:
       # logo: /images/experiences/leaseplan.png
       # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: LeasePlan is a Dutch-founded global leader in vehicle leasing and fleet management, offering end-to-end services including purchase, financing, insurance, maintenance, and resale via its digital CarNext.com platform.
     positions:
       - designation: System / Security Engineer
         start: Aug 2021
@@ -138,7 +138,7 @@ experiences:
       # logo: /images/experiences/cloudphase.png
       # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: Cloudphase provides cloud-based MSP services to SME customers.
     positions:
       - designation: Interim Project Engineer
         start: Jan 2022
@@ -155,7 +155,7 @@ experiences:
       # logo: /images/experiences/dictu.png
       # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: DICTU (Dienst ICT Uitvoering) is a major ICT service provider within the Dutch Ministry of Economic Affairs, supporting core processes for EZK, LNV, and other ministries with over 1,800 professionals managing ~1,500 applications, data centers, digital workplaces (~16,000), and public-facing systems.
     positions:
       - designation: Senior Citrix Specialist
         start: Mar 2020
