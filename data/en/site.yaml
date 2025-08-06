@@ -19,8 +19,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Menno's Website
+  title: menno.cloud
   type: website
-  description: Personal site of Menno
+  description: PowerShell, Azure and more
   image: images/author/menno.png
-  url: https://github.com/mystacx/menno.cloud
+  url: https://menno.cloud
