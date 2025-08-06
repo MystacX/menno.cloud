@@ -17,8 +17,8 @@ experiences:
       - designation: Freelance Azure Cloud Engineer
         start: Jan 2020
         responsibilities:
-          - Design and implement Azure Virtual Desktop environments
-          - Support application teams with integrating their solutions into the AVD platform
+          - Design and implement Azure environments
+          - Support IT teams integrating their workflows into modern CI/CD pipelines
           - Utilize infrastructure-as-code principles for the technical deployment of the environments
       - designation: Managing Director
         start: Jan 2020
