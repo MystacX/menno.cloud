@@ -84,7 +84,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Self-Awareness & Adaptability
-  percentage: 85
+  percentage: 80
   color: green
 
 # you can also provide color code instead of the color name
