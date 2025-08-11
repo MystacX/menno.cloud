@@ -1,6 +1,7 @@
 ---
 title: "Bicep at Scale – Don’t Use Modules"
 date: 2025-08-06T20:32:39+02:00
+published: 2030-08-06
 hero: bicep_at_scale-hero.png
 description: Why you shouldn't use modules at scale
 menu:
