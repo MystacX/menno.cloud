@@ -5,7 +5,7 @@ publish = "public"
 [context.production.environment]
 HUGO_ENABLEGITINFO = "true"
 HUGO_ENV           = "production"
-HUGO_VERSION       = "0.146.4"
+HUGO_VERSION       = "0.161.1"
 NODE_VERSION       = "v23.11.0"
 NPM_VERSION        = "10.9.2"
 
